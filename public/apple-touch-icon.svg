@@ -1,0 +1,55 @@
+<svg viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Transparent background for iOS (system will add its own background) -->
+  
+  <!-- Phone handset - dark for visibility -->
+  <path 
+    d="M38 29 C38 24 40 21 46 21 L58 21 C64 21 66 24 66 29 L66 151 C66 156 64 159 58 159 L46 159 C40 159 38 156 38 151 Z" 
+    stroke="#1a1a1a" 
+    stroke-width="8"
+    fill="none"
+  />
+  
+  <!-- Phone speaker -->
+  <line x1="45" y1="34" x2="59" y2="34" stroke="#1a1a1a" stroke-width="5" />
+  
+  <!-- Phone button -->
+  <circle cx="52" cy="144" r="5" fill="#1a1a1a" />
+  
+  <!-- Calendar overlay - neon green, larger -->
+  <rect 
+    x="64" 
+    y="58" 
+    width="78" 
+    height="84" 
+    rx="8" 
+    stroke="#39FF14" 
+    stroke-width="8"
+    fill="#39FF14"
+    opacity="0.15"
+  />
+  <rect 
+    x="64" 
+    y="58" 
+    width="78" 
+    height="84" 
+    rx="8" 
+    stroke="#39FF14" 
+    stroke-width="8"
+    fill="none"
+  />
+  
+  <!-- Calendar header -->
+  <line x1="64" y1="80" x2="142" y2="80" stroke="#39FF14" stroke-width="6" />
+  
+  <!-- Calendar binding rings -->
+  <line x1="84" y1="58" x2="84" y2="45" stroke="#39FF14" stroke-width="6" stroke-linecap="round" />
+  <line x1="103" y1="58" x2="103" y2="45" stroke="#39FF14" stroke-width="6" stroke-linecap="round" />
+  <line x1="122" y1="58" x2="122" y2="45" stroke="#39FF14" stroke-width="6" stroke-linecap="round" />
+  
+  <!-- Calendar dots (appointments) -->
+  <circle cx="84" cy="98" r="5" fill="#39FF14" />
+  <circle cx="103" cy="98" r="5" fill="#39FF14" />
+  <circle cx="122" cy="98" r="5" fill="#39FF14" />
+  <circle cx="84" cy="118" r="5" fill="#39FF14" />
+  <circle cx="122" cy="118" r="5" fill="#39FF14" />
+</svg>

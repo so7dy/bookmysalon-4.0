@@ -1,0 +1,17 @@
+{
+  "name": "BookMySalon",
+  "short_name": "BookMySalon",
+  "description": "AI-Powered Appointment Booking for Salons & Barbershops",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#39FF14",
+  "icons": [
+    {
+      "src": "/favicon-phone.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
